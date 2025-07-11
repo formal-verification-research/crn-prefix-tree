@@ -1,0 +1,3 @@
+[console_scripts]
+yices_python_info = yices_api:yices_python_info_main
+

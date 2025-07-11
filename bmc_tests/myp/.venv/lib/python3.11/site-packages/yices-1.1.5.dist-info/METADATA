@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: yices
+Version: 1.1.5
+Summary: Python Bindings for the Yices SMT Solver
+Home-page: https://github.com/SRI-CSL/yices2_python_bindings
+Author: Sam Owre, Ian A. Mason, Bruno Dutertre.
+Author-email: iam@csl.sri.com
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Compilers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: POSIX :: BSD
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE
+
+This is the long description.
+
